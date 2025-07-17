@@ -1,7 +1,19 @@
 ## Olá, me chamo julia leticia! 👋
 :unicorn:
 
+Three or more...
 
+---
+
+Hyphens
+
+***
+
+Asterisks
+
+___
+
+Underscores
 
 
 
