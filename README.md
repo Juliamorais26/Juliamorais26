@@ -4,7 +4,7 @@
 ---
 
 
-
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg
 
 
 ## Minhas habilidades
