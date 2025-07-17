@@ -1,12 +1,9 @@
 ## Olá, me chamo julia leticia! 👋
 :unicorn:
 
-Three or more...
-
 ---
 
 
-Underscores
 
 
 
