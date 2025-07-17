@@ -2,6 +2,8 @@
 :unicorn:
 
 
+            <img height="50px" whidth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+          
 
 <!--
 **Juliamorais26/Juliamorais26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
