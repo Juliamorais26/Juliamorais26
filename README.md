@@ -18,7 +18,7 @@
 
 
 ## 📫 Contato
--
+- juliamoraisestudo26@gmail.com
 
 
 
