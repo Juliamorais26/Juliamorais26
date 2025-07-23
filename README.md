@@ -18,7 +18,7 @@
 
 
 ## 📫 Contato
-- ✉️ Email:juliamoraisestudo26@gmail.com
+- ✉️ Email: juliamoraisestudo26@gmail.com
 - 💼 LinkedIn: 
 
 
