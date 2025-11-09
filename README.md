@@ -1,7 +1,6 @@
 ## Olá, me chamo julia leticia! 👋 :heart:
 
-- Sou do Brasil. 
-- Amo desenvolver front-end.
+- Desenvolvedora front-end.
 - Aprendendo sempre um pouco!
   
 ## Minhas habilidades 
